@@ -1,0 +1,58 @@
+
+
+
+h1 {
+
+	color: black;
+	font-style: Sans-serif;
+
+}
+
+h2 {
+
+	color: black;
+	font-style: Sans-serif;
+}
+
+
+h3 {
+
+	text-align: left;
+	font-style: Sans-serif;
+	color: red;
+}
+
+h4{
+	color: black;
+	font-style: Sans-serif;
+}
+
+p {
+
+text-align: left;
+color: black;
+font-family: Arial;
+font-size: 18px;
+
+}
+
+ body {
+ 	font-style: Arial;
+ 	background-color: lightblue;
+ 	border-style: double;
+	border-color: black;
+	border width: 15px;
+	
+ }
+
+.bar{
+	text-align: center; 
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+ 	
+ 	
+   
+
+}
+

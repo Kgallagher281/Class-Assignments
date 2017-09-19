@@ -1,0 +1,31 @@
+.bar {
+	text-align: center; 
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+ }
+
+
+h1 {
+
+	color: black bold;
+}
+
+.Name{
+
+	text-align: center;
+}
+
+body {
+ 
+	background-image: url(https://wallpaperbrowse.com/media/images/black-and-white-city-skyline-buildings_Ethyzhn.jpg); 
+	background-bottom: 250px;
+}
+
+p {
+	text-decoration: white;
+	color: red;
+	font-weight: bold;
+	font-size:15px;
+}
+

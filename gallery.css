@@ -1,0 +1,68 @@
+
+
+
+h1 {
+
+	color: black bold;
+}
+
+
+.bar{
+	text-align: center; 
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+ }
+
+body {
+color: white;
+	background-image: url(http://www.intrawallpaper.com/static/images/Nature-Beach-Scenery-Wallpaper-HD1.jpg);
+position: absolute;
+background-size: cover;
+transition: all;
+transition-duration: 2s;
+}
+
+
+.photo1:hover img{
+transform: rotateZ(360deg);
+transition-duration: 1s;
+
+}
+
+.Sports:hover img {
+margin: 3px;
+border:  2px solid black;
+transform: rotateZ(360deg);
+transition-duration: 1s;
+
+}
+	
+
+
+
+.gallery {
+text-align: center;
+
+}
+.personal img {
+margin: 3px;
+border: 2px solid black;
+	
+}
+
+
+.auto:hover img {
+margin: 3px;
+	border: 2px solid black;
+	transform: rotateZ(360deg);
+transition-duration: 1s;
+}
+
+.auto:hover img {
+
+transform: rotateZ(360deg);
+transition-duration: 1s;
+animation-duration: 1s;
+
+}

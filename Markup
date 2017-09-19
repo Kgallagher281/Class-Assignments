@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<img src="https://ca.slack-edge.com/T03JJLPSP-U6W4SAPRT-835e0912220-512">
+
+
+<link rel="stylesheet" href="style.css">	
+<title>Sports Statistics</title>
+</head>
+
+<body>
+
+
+
+<h1>The World of Sports</h1>
+
+<h2>Football and the teams that have impacted it's changes</h2>
+
+<nav>
+	<ul>
+		<li>
+			<a href="Markup">Home</a>
+			</li>
+		</ul>
+	</nav>
+
+<nav>
+	<ul>
+		<li>
+			<a href="index.html">HTML</a>
+			</li>
+		</ul>
+	</nav>
+	<nav>
+	<ul>
+		<li>
+			<a href="blank">Coming Soon</a>
+			</li>
+		</ul>
+	</nav>
+<table>
+
+<tr>
+<th>Jets</th>
+<th>Giants</th>
+<th>Falcons</th>
+</tr>
+
+<tr>
+<th>4-16</th>
+<th>3-10</th>
+<th>4-8</th>
+
+</tr>
+
+<tr>
+<th>wins/loss</th>	
+<th>wins/loss</th>
+<th>wins/loss</th>
+
+</tr>
+
+</table>
+
+
+<video width="480" height="320" controls>
+<source src="test video.mp4">
+</video>
+<br></br>
+<br></br>
+
+<video width="480" height="320" controls>
+<source src="testvideo2.mp4">
+</video>
+
+<article>
+
+<h3>Rex Ryan's Comment on Jets and Bills</h3>
+
+<p>The current regime inherited Ryan's 4-12 team, but instead of rebuilding from the outset, it acquired several older veterans -- "rentals," as Ryan called them. "They went for broke, but the fallout was going to be obvious. This team wasn't built for the long haul, it was built for a one shot, and that was it."</p>
+
+<p>"He's going try to work with these young quarterbacks because that's what he does -- he's a really good guy -- but everybody knows he's not the answer," Ryan said.</p>
+
+<p>The Jets' perpetual search for a franchise quarterback probably will prompt them to pick one in the 2018 draft, which could be top heavy with elite arms. If they make the right choice, the Jets can change their fortunes immediately, according to Ryan.</p>
+
+<p>"It's like Andrew Luck: You get a quarterback, a difference-maker like that, you can flip your franchise overnight," he said. "To me, the thing can be flipped in one year, bringing in the right personnel. You can get the Jets back. That's what I truly believe."</p>
+
+<p>Ryan said he never would've traded Sheldon Richardson.</p>
+
+</article>
+
+
+</body>
+
+</html>
